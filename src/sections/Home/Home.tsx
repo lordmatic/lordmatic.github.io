@@ -15,7 +15,7 @@ export const Home: React.FC = () => {
           <Column>
             <div className="home" id="home">
               <div className="home__intro">
-                <h1 className="home__header">It’s Eric.</h1>
+                <h1 className="home__header">It’s Liberty.</h1>
                 <p className="home__role">
                   A Self-Taught{" "}
                   <span className="home__role--bold">full-stack engineer</span>
