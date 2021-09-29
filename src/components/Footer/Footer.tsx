@@ -15,7 +15,7 @@ export const Footer: React.FC = () => (
       <div className="footer__wrapper">
         <div className="footer__cols">
           <div className="footer__details">
-            <h1>Eric Roth.</h1>
+            <h1>Liberty.</h1>
             <p className="footer__heart">
               © 2020 | Build with <AiFillHeart /> by me | source on{" "}
               <a
